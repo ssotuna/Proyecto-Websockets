@@ -1,0 +1,7 @@
+com\espe\chat\chat\MessageType.class
+com\espe\chat\chat\ChatMessage$ChatMessageBuilder.class
+com\espe\chat\chat\ChatController.class
+com\espe\chat\chat\ChatMessage.class
+com\espe\chat\config\WebSocketEventListener.class
+com\espe\chat\ChatApplication.class
+com\espe\chat\config\WebSocketConfig.class
